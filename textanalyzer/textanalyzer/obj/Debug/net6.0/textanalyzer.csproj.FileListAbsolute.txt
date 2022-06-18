@@ -1,0 +1,15 @@
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\bin\Debug\net6.0\textanalyzer.exe
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\bin\Debug\net6.0\textanalyzer.deps.json
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\bin\Debug\net6.0\textanalyzer.runtimeconfig.json
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\bin\Debug\net6.0\textanalyzer.dll
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\bin\Debug\net6.0\textanalyzer.pdb
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.AssemblyInfo.cs
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.dll
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\refint\textanalyzer.dll
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.pdb
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\textanalyzer.genruntimeconfig.cache
+C:\Users\slava\source\repos\textanalyzer\textanalyzer\obj\Debug\net6.0\ref\textanalyzer.dll
